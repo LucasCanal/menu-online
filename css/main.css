@@ -470,7 +470,10 @@ footer {
 }
 
 .container-redes-footer {
-    justify-content: end;
+    justify-content: start;
+    margin-bottom: 10px;
+    margin-top: -20px;
+    left: 20px;
 }
 
 .modal-full {
